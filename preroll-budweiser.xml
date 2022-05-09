@@ -7,7 +7,7 @@
    <Impression/>
    <Creatives>
     <Creative>
-     <Linear skipoffset="00:00:10">
+     <Linear skipoffset="00:00:05">
       <Duration >00:01:00</Duration>
       <VideoClicks>
         <ClickThrough><![CDATA[https://vps.surmay.dev/]]></ClickThrough>
