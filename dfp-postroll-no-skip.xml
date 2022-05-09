@@ -11,10 +11,10 @@
      <Linear>
       <Duration>00:00:10</Duration>
       <VideoClicks>
-       <ClickThrough id="GDFP"><![CDATA[https://www.theoplayer.com]]></ClickThrough>
+       <ClickThrough id="GDFP"><![CDATA[https://vps.surmay.dev/]]></ClickThrough>
       </VideoClicks>
       <MediaFiles>
-       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="236" scalable="true" maintainAspectRatio="true"><![CDATA[https://nftest.tiiny.site/postroll.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="236" scalable="true" maintainAspectRatio="true"><![CDATA[https://vps.surmay.dev/adstatic/postroll.mp4]]></MediaFile>
       </MediaFiles>
      </Linear>
     </Creative>
