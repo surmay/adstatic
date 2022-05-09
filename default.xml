@@ -8,7 +8,19 @@
     
     <vmap:AdBreak timeOffset="00:00:10" breakType="linear" breakId="midroll">
       <vmap:AdSource id="midroll-ad-1" allowMultipleAds="false" followRedirects="true">
-          <vmap:AdTagURI templateType="vast3"><![CDATA[https://vps.surmay.dev/adstatic/dfp-midroll-no-skip.xml]]></vmap:AdTagURI>
+          <vmap:AdTagURI templateType="vast3"><![CDATA[https://vps.surmay.dev/adstatic/midroll-duracell.xml]]></vmap:AdTagURI>
+      </vmap:AdSource>
+    </vmap:AdBreak>
+
+    <vmap:AdBreak timeOffset="00:00:20" breakType="linear" breakId="midroll2">
+      <vmap:AdSource id="midroll-ad-2" allowMultipleAds="false" followRedirects="true">
+          <vmap:AdTagURI templateType="vast3"><![CDATA[https://vps.surmay.dev/adstatic/midroll-keebler.xml]]></vmap:AdTagURI>
+      </vmap:AdSource>
+    </vmap:AdBreak>
+
+    <vmap:AdBreak timeOffset="00:00:30" breakType="linear" breakId="midroll3">
+      <vmap:AdSource id="midroll-ad-3" allowMultipleAds="false" followRedirects="true">
+          <vmap:AdTagURI templateType="vast3"><![CDATA[https://vps.surmay.dev/adstatic/midroll-gorilla.xml]]></vmap:AdTagURI>
       </vmap:AdSource>
     </vmap:AdBreak>
     
