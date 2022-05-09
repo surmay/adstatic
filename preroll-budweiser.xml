@@ -13,7 +13,7 @@
         <ClickThrough><![CDATA[https://vps.surmay.dev/]]></ClickThrough>
       </VideoClicks>
       <MediaFiles>
-       <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="1342" scalable="true" maintainAspectRatio="true"><![CDATA[https://vps.surmay.dev/adstatic/preroll-budweiser.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="586" scalable="true" maintainAspectRatio="true"><![CDATA[https://vps.surmay.dev/adstatic/preroll-budweiser.mp4]]></MediaFile>
       </MediaFiles>
      </Linear>
     </Creative>
