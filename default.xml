@@ -14,7 +14,7 @@
 
     <vmap:AdBreak timeOffset="00:00:40" breakType="linear" breakId="midroll2">
       <vmap:AdSource id="midroll-ad-21" allowMultipleAds="false" followRedirects="true">
-          <vmap:AdTagURI templateType="vast3"><![CDATA[https://vps.surmay.dev/adstatic/midroll-milk.xml]]></vmap:AdTagURI>
+          <vmap:AdTagURI templateType="vast3"><![CDATA[https://vps.surmay.dev/adstatic/milk.xml]]></vmap:AdTagURI>
       </vmap:AdSource>
     </vmap:AdBreak>
 
