@@ -24,6 +24,12 @@
       </vmap:AdSource>
     </vmap:AdBreak>
     
+    <vmap:AdBreak timeOffset="00:01:20" breakType="nonlinear" breakId="midroll4">
+      <vmap:AdSource id="midroll-ad-3" allowMultipleAds="false" followRedirects="true">
+          <vmap:AdTagURI templateType="vast3"><![CDATA[https://vps.surmay.dev/adstatic/peloton.xml]]></vmap:AdTagURI>
+      </vmap:AdSource>
+    </vmap:AdBreak>
+
     <vmap:AdBreak timeOffset="end" breakType="linear" breakId="postroll">
       <vmap:AdSource id="postroll-ad-1" allowMultipleAds="false" followRedirects="true">
           <vmap:AdTagURI templateType="vast3"><![CDATA[https://vps.surmay.dev/adstatic/dfp-postroll-no-skip.xml]]></vmap:AdTagURI>
