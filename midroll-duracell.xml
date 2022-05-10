@@ -10,7 +10,7 @@
      <Linear>
       <Duration >00:00:06</Duration>
       <VideoClicks>
-       <ClickThrough id="GDFP"><![CDATA[https://vps.surmay.dev/]]></ClickThrough>
+       <ClickThrough id="GDFP"><![CDATA[https://www.duracell.com/en-us/]]></ClickThrough>
       </VideoClicks>
       <MediaFiles>
        <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="329" scalable="true" maintainAspectRatio="true"><![CDATA[https://vps.surmay.dev/adstatic/midroll-duracell.mp4]]></MediaFile>

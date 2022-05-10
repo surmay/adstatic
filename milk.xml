@@ -10,10 +10,10 @@
      <Linear>
       <Duration >00:00:16</Duration>
       <VideoClicks>
-       <ClickThrough id="GDFP"><![CDATA[https://vps.surmay.dev/]]></ClickThrough>
+       <ClickThrough id="GDFP"><![CDATA[https://www.gotmilk.com/]]></ClickThrough>
       </VideoClicks>
       <MediaFiles>
-       <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="455" scalable="true" maintainAspectRatio="true"><![CDATA[https://vps.surmay.dev/adstatic/midroll-milk.mp4]]></MediaFile>
+       <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="455" scalable="true" maintainAspectRatio="true"><![CDATA[https://vps.surmay.dev/adstatic/milk.mp4]]></MediaFile>
       </MediaFiles>
      </Linear>
     </Creative>

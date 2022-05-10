@@ -10,7 +10,7 @@
      <Linear>
       <Duration >00:00:06</Duration>
       <VideoClicks>
-       <ClickThrough id="GDFP"><![CDATA[https://vps.surmay.dev/]]></ClickThrough>
+       <ClickThrough id="GDFP"><![CDATA[https://www.gorillatough.com/]]></ClickThrough>
       </VideoClicks>
       <MediaFiles>
        <MediaFile id="GDFP" delivery="progressive" width="1280" height="720" type="video/mp4" bitrate="3272" scalable="true" maintainAspectRatio="true"><![CDATA[https://vps.surmay.dev/adstatic/midroll-gorilla.mp4]]></MediaFile>

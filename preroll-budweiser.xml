@@ -10,7 +10,7 @@
      <Linear skipoffset="00:00:05">
       <Duration >00:01:00</Duration>
       <VideoClicks>
-        <ClickThrough><![CDATA[https://vps.surmay.dev/]]></ClickThrough>
+        <ClickThrough><![CDATA[https://us.budweiser.com/]]></ClickThrough>
       </VideoClicks>
       <MediaFiles>
        <MediaFile id="GDFP" delivery="progressive" width="640" height="360" type="video/mp4" bitrate="586" scalable="true" maintainAspectRatio="true"><![CDATA[https://vps.surmay.dev/adstatic/preroll-budweiser.mp4]]></MediaFile>
